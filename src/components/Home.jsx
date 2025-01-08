@@ -30,7 +30,7 @@ const Home = () => {
         <div className="right">
         <div className="img"  data-aos="fade-up-left"
              data-aod-duration="1000">
-          <img src={`/src/assets/${hero.imgSrc}`} alt="hero" />
+         <img src="/hero/hero.avif" alt="Hero" />
         </div>
         </div>
       </div>
